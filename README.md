@@ -31,6 +31,8 @@ Todo o Design do projeto está sendo desenvolvido utilizando Figma sendo eu mesm
 
 # Funcionalidades do Projeto
 
+🚧 *[Em Construção]* 🚧
+
 `Funcionalidades estão em desenvolvimento.`<br>
 
 # Técnicas e Tecnologias Utilizadas
@@ -53,5 +55,7 @@ Após baixar o projeto, você pode abrir com o Android Studio. Para isso, na tel
 A versão do Flutter utilizadas no projeto é a `3.27.2`.<br>
 
 # Showcase da Aplicação
+
+🚧 *[Em Construção]* 🚧
 
 Sem showcase disponível no momento.
